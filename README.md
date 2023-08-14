@@ -1,8 +1,21 @@
 # Hi, I’m RolandJBaron
-Roland Jens Baron
-Unterdorf Strasse 1-3, 61197, Florstadt, Hessen 
+
+ANGABEN ZUR PERSON	Roland Jens Baron
+
 rolandbaron@hotmail.com 
+
 Geschlecht Männlich | Geburtsdatum 11/11/1980 | Familienstand Ledig
 Staatsangehörigkeit: Deutsch – Süd Afrika
+	
 
-\Bilder\Sheila\20211031_125840.jpg
+PERSÖNLICHE FÄHIGKEITEN	 
+
+Deutsch	Fliessend in Wort und Schrifft
+
+Englisch	Fliessend in Wort und Schrifft
+
+Afrikaans	Fliessend in Wort und Schrifft
+
+Computerkenntnisse 	Windows
+
+
