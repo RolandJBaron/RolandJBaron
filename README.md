@@ -20,4 +20,4 @@ Afrikaans Fliessend in Wort und Schrifft
 
 Computerkenntnisse  Windows
 
-
+![Me and sheila](IMG_1581.JPEG)
