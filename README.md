@@ -7,8 +7,6 @@ rolandbaron@hotmail.com
 
 Geschlecht Männlich
 
-Geburtsdatum 11/11/1980
-
 Familienstand Ledig
 
 Staatsangehörigkeit: Deutsch – Süd Afrika
@@ -21,6 +19,6 @@ Englisch Fliessend in Wort und Schrifft
 
 Afrikaans Fliessend in Wort und Schrifft
 
-Computerkenntnisse  Windows
+Computerkenntnisse  Windows / IOS
 
 ![Me and sheila](IMG_1581.JPEG)
