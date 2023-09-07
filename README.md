@@ -19,6 +19,10 @@ Englisch Fliessend in Wort und Schrifft
 
 Afrikaans Fliessend in Wort und Schrifft
 
-Computerkenntnisse  Windows / IOS
+Computerkenntnisse:  Windows / IOS
+
+Currently Learning: Software Development
+HTML, CSS, JavaScript and React
+
 
 ![Me and sheila](IMG_1581.JPEG)
