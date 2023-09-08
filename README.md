@@ -14,15 +14,16 @@ Staatsangehörigkeit: Deutsch – Süd Afrika
 # PERSÖNLICHE FÄHIGKEITEN
 
 Deutsch	Fliessend in Wort und Schrifft
-
 Englisch Fliessend in Wort und Schrifft
-
 Afrikaans Fliessend in Wort und Schrifft
 
 Computerkenntnisse:  Windows / IOS
 
 Currently Learning: Software Development: 
-HTML, CSS, JavaScript and React
+• HTML
+• CSS
+• JavaScript
+• React
 
 
 ![Me and sheila](IMG_1581.JPEG)
