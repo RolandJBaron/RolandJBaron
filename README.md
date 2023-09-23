@@ -23,7 +23,8 @@ Currently Learning: Software Development:
 • HTML
 • CSS
 • JavaScript
-• React
+• React.js
+• Next.js
 
 
 ![Me and sheila](IMG_1581.JPEG)
