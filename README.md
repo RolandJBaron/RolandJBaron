@@ -1,4 +1,4 @@
-# Hi, I’m RolandJBaron
+# Hi, I’m Roland J. Baron
 
 ## ANGABEN ZUR PERSON 
 Roland Jens Baron
