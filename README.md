@@ -19,7 +19,7 @@ Afrikaans Fliessend in Wort und Schrifft<br>
 
 Computerkenntnisse:  Windows / IOS
 
-Currently Learning: Software Development: 
+Currently Learning: Software Development:<br> 
 • HTML<br>
 • CSS<br>
 • JavaScript<br>
