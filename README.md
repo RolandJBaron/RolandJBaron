@@ -11,7 +11,7 @@ Familienstand Ledig
 
 Staatsangehörigkeit: Deutsch – Süd Afrika
 	
-# PERSÖNLICHE FÄHIGKEITEN
+## PERSÖNLICHE FÄHIGKEITEN
 
 Deutsch	Fliessend in Wort und Schrifft<br>
 Englisch Fliessend in Wort und Schrifft<br>
