@@ -24,7 +24,8 @@ Currently Learning: Software Development:<br>
 • CSS<br>
 • JavaScript<br>
 • React.js<br>
-• Next.js<BR
+• Next.js<br>
+• MongooseDB<br>
 
 
 ![Me and sheila](IMG_1581.JPEG)
