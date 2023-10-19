@@ -7,8 +7,6 @@ rolandbaron@hotmail.com
 
 Geschlecht Männlich
 
-Familienstand Ledig
-
 Staatsangehörigkeit: Deutsch – Süd Afrika
 	
 ## PERSÖNLICHE FÄHIGKEITEN
