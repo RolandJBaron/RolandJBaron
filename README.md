@@ -23,7 +23,7 @@ IOS / Window
 • Security Architecture<br>
 • Security Analysts<br>
 • Digital Forensic<br>
-• Cyber Forensics<br>
+• Cyber Forensic<br>
 • Penetration Testing<br>
 
 #### Currently Learning: Software Development:<br> 
