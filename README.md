@@ -7,13 +7,14 @@ cyber-recce@protonmail.com
 
 Citizenship: German - South African
 
+##Languages
 German Speak, Read, Write<br>
 English Speak, Read, Write<br>
 Afrikaans Speak, Read, Write<br>
 
-Computer Literacy:  Windows / IOS
-
 I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
+
+Computer Literacy: IOS / Window
 
 Currently Learning: Software Development:<br> 
 • HTML<br>
