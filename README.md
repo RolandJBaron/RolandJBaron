@@ -7,7 +7,7 @@ cyber-recce@protonmail.com
 
 Citizenship: German - South African
 
-##Languages
+##Languages<br>
 German Speak, Read, Write<br>
 English Speak, Read, Write<br>
 Afrikaans Speak, Read, Write<br>
