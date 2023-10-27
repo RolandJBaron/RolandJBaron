@@ -1,21 +1,19 @@
 # Hi, I’m Roland J. Baron
 
-## ANGABEN ZUR PERSON 
+## PERSON DETAILS 
 Roland Jens Baron
 
-rolandbaron@hotmail.com 
+cyber-recce@protonmail.com 
 
-Geschlecht Männlich
+Citizenship: German - South African
 
-Staatsangehörigkeit: Deutsch – Süd Afrika
-	
-## PERSÖNLICHE FÄHIGKEITEN
+German Speak, Read, Write<br>
+English Speak, Read, Write<br>
+Afrikaans Speak, Read, Write<br>
 
-Deutsch	Fliessend in Wort und Schrifft<br>
-Englisch Fliessend in Wort und Schrifft<br>
-Afrikaans Fliessend in Wort und Schrifft<br>
+Computer Literacy:  Windows / IOS
 
-Computerkenntnisse:  Windows / IOS
+I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 
 Currently Learning: Software Development:<br> 
 • HTML<br>
@@ -26,4 +24,5 @@ Currently Learning: Software Development:<br>
 • MongooseDB<br>
 
 
-![Me and sheila](IMG_1581.JPEG)
+![Me and sheila](IMG_1581.JPEG, ![739CB9F3-F808-4BCD-87AA-E2A3B8189787_1_105_c](https://github.com/RolandJBaron/RolandJBaron/assets/142206832/9b5e9fa2-a43e-49c6-8f0d-f1e64209f2d2)
+)
