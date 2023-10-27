@@ -18,12 +18,16 @@ I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 
 IOS / Window
 
+• Github<br>
+• Visual Studio<br>
+• Mongoose<br>
+
 #### Cyber Security
-•Network Security<br>
-•Security Architecture<br>
-•Security Analysts<br>
-•Digital Forensic<br>
-•Penetration Testing<br>
+• Network Security<br>
+• Security Architecture<br>
+• Security Analysts<br>
+• Digital Forensic<br>
+• Penetration Testing<br>
 
 #### Currently Learning: Software Development:<br> 
 • HTML<br>
