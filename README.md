@@ -13,7 +13,14 @@ Afrikaans: Speak, Read, Write<br>
 
 I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 
-Computer Literacy: IOS / Window
+## Computer Literacy<br>
+
+IOS / Window
+
+security architects<br>
+security analysts<br>
+digital forensic<br>
+penetration testers
 
 Currently Learning: Software Development:<br> 
 • HTML<br>
