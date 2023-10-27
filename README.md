@@ -2,7 +2,7 @@
 
 ### PERSON DETAILS 
 
-Contact me: 
+Contact me:<br>
 cyber-recce@protonmail.com 
 
 Citizenship: German - South African
