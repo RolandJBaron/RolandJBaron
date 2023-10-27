@@ -2,7 +2,7 @@
 
 ### PERSON DETAILS 
 
-cyber-recce@protonmail.com 
+Contact me: cyber-recce@protonmail.com 
 
 Citizenship: German - South African
 
@@ -23,7 +23,7 @@ IOS / Window
 •Digital forensic<br>
 Penetration testers
 
-###Currently Learning: Software Development:<br> 
+### Currently Learning: Software Development:<br> 
 • HTML<br>
 • CSS<br>
 • JavaScript<br>
