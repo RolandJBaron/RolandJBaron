@@ -1,4 +1,4 @@
-# Hi, I’m Roland J. Baron
+## Hi, I’m Roland J. Baron
 
 ## PERSON DETAILS 
 Roland Jens Baron
@@ -7,7 +7,7 @@ cyber-recce@protonmail.com
 
 Citizenship: German - South African
 
-##Languages<br>
+## Languages
 German Speak, Read, Write<br>
 English Speak, Read, Write<br>
 Afrikaans Speak, Read, Write<br>
