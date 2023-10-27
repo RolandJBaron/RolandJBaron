@@ -20,10 +20,10 @@ IOS / Window
 
 #### Cyber Security
 •Network Security<br>
-•Security architects<br>
-•Security analysts<br>
-•Digital forensic<br>
-•Penetration testing
+•Security Architecture<br>
+•Security Analysts<br>
+•Digital Forensic<br>
+•Penetration Testing<br>
 
 #### Currently Learning: Software Development:<br> 
 • HTML<br>
