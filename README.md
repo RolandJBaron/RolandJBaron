@@ -18,10 +18,6 @@ I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 
 IOS / Window
 
-• Github<br>
-• Visual Studio<br>
-• Mongoose<br>
-
 #### Cyber Security
 • Network Security<br>
 • Security Architecture<br>
