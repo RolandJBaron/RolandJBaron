@@ -30,7 +30,7 @@ IOS / Window
 • Github<br>
 • Visual Studio<br>
 • MongooseDB<br>
-<br><br>
+<br>
 
 • HTML<br>
 • CSS<br>
