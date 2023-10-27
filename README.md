@@ -24,5 +24,5 @@ Currently Learning: Software Development:<br>
 • MongooseDB<br>
 
 
-(IMG_1581.JPEG, ![739CB9F3-F808-4BCD-87AA-E2A3B8189787_1_105_c](https://github.com/RolandJBaron/RolandJBaron/assets/142206832/9b5e9fa2-a43e-49c6-8f0d-f1e64209f2d2)
-)
+([739CB9F3-F808-4BCD-87AA-E2A3B8189787_1_105_c](https://github.com/RolandJBaron/RolandJBaron/assets/142206832/9b5e9fa2-a43e-49c6-8f0d-f1e64209f2d2)
+
