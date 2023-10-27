@@ -1,19 +1,19 @@
 ## I’m Roland J. Baron
 
-## PERSON DETAILS 
+### PERSON DETAILS 
 
 cyber-recce@protonmail.com 
 
 Citizenship: German - South African
 
-## Languages
+### Languages
 German: Speak, Read, Write<br>
 English: Speak, Read, Write<br>
 Afrikaans: Speak, Read, Write<br>
 
 I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 
-## Computer Literacy<br>
+### Computer Literacy<br>
 
 IOS / Window
 
@@ -23,7 +23,7 @@ IOS / Window
 •Digital forensic<br>
 Penetration testers
 
-Currently Learning: Software Development:<br> 
+###Currently Learning: Software Development:<br> 
 • HTML<br>
 • CSS<br>
 • JavaScript<br>
