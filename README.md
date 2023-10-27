@@ -22,7 +22,7 @@ IOS / Window
 •Security architects<br>
 •Security analysts<br>
 •Digital forensic<br>
-Penetration testers
+•Penetration testing
 
 ### Currently Learning: Software Development:<br> 
 • HTML<br>
