@@ -21,7 +21,7 @@ I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 IOS / Window
 
 #### Cyber Security
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) • Network Security<br>
+• Network Security<br>
 • Security Architecture<br>
 • Security Analysts<br>
 • Digital Forensic<br>
@@ -34,7 +34,7 @@ IOS / Window
 • Visual Studio<br>
 <br>
 
-• HTML<br>
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) • HTML<br>
 • CSS<br>
 • JavaScript<br>
 • React.js<br>
