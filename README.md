@@ -24,8 +24,8 @@ IOS / Window
 ### Currently Learning: Software Development
 #### Skills:
 
-- Programming: HTML, CSS, JavaScript
-- Frameworks/Libraries: React.js, Next.js, Node.js
+- Programming: HTML, CSS, JavaScript, Node.js
+- Frameworks/Libraries: React.js, Next.js, NextAuth
 - Tools: Github, Visual Studio Code, Figma, Vercel
 - Databases: MongoDB, MongooseDB
 
