@@ -34,8 +34,7 @@ IOS / Window
 • Visual Studio<br>
 • MongooseDB<br>
 <br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) html
-• HTML<br>
+[![My Skills](https://skillicons.dev/icons?i=js,html)](https://skillicons.dev) • HTML<br>
 • CSS<br>
 • JavaScript<br>
 • React.js<br>
