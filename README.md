@@ -34,10 +34,10 @@ IOS / Window
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) • Visual Studio Code
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) • FIGMA
 <br>
-
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) • HTML
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) • CSS
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) • JavaScript<br>
+•HTML •CSS • JAVASCRIPT
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)<br>
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) • React.js
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) • Next.js
 [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) • MongooseDB<br>
