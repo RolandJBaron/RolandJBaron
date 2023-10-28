@@ -32,6 +32,8 @@ IOS / Window
 • Github<br>
 • Visual Studio Code<br>
 • Figma<br>
+• MongooseDB<br>
+• Vercel<br>
 
 • HTML<br>
 • CSS<br>
