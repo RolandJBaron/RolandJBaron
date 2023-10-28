@@ -29,7 +29,7 @@ IOS / Window
 • Penetration Testing<br>
 
 #### Currently Learning: Software Development:<br> 
-• Github • Visual Studio Code • Figma
+• Github • Visual Studio Code • Figma<br>
 [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)<br>
