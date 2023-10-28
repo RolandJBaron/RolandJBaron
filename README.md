@@ -34,7 +34,7 @@ IOS / Window
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) • Visual Studio Code
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) • FIGMA
 <br>
-•HTML •CSS • JAVASCRIPT
+•HTML •CSS • JAVASCRIPT<br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)<br>
