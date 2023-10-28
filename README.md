@@ -29,7 +29,7 @@ IOS / Window
 • Penetration Testing<br>
 
 ### Currently Learning: Software Development
-#### Skills:<br>
+#### Skills:
 **- Programming:** HTML, CSS, JavaScript<br>
 **- Frameworks/Libraries:** React.js, Next.js<br>
 **- Tools:** Github, Visual Studio Code, Figma, Vercel<br>
