@@ -25,10 +25,10 @@ IOS / Window
 #### Skills:
 
 - Programming: 
-  - HTML
-  - CSS
-  - JavaScript
-  - Node.js
+ - HTML
+ - CSS
+ - JavaScript
+ - Node.js
 - Frameworks/Libraries: React.js, Next.js, NextAuth
 - Tools: Github, Visual Studio Code, Figma, Vercel
 - Databases: MongoDB, MongooseDB
