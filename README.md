@@ -20,13 +20,6 @@ I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 
 IOS / Window
 
-#### Cyber Security
-• Network Security<br>
-• Security Architecture<br>
-• Security Analysts<br>
-• Digital Forensic<br>
-• Cyber Forensic<br>
-• Penetration Testing<br>
 
 ### Currently Learning: Software Development
 #### Skills:
@@ -35,6 +28,16 @@ IOS / Window
 - Frameworks/Libraries: React.js, Next.js
 - Tools: Github, Visual Studio Code, Figma, Vercel
 - Databases: MongoDB, MongooseDB
+
+
+#### Cyber Security
+• Network Security<br>
+• Security Architecture<br>
+• Security Analysts<br>
+• Digital Forensic<br>
+• Cyber Forensic<br>
+• Penetration Testing<br>
+
 
 ![739CB9F3-F808-4BCD-87AA-E2A3B8189787_1_105_c](https://github.com/RolandJBaron/RolandJBaron/assets/142206832/1491636e-294d-47ef-ab97-0c888bc1fe7c)
 
