@@ -28,7 +28,7 @@ IOS / Window
 • Cyber Forensic<br>
 • Penetration Testing<br>
 
-### Currently Learning: Software Development<br> 
+### Currently Learning: Software Development
 #### Tools
 • Github<br>
 • Visual Studio Code<br>
