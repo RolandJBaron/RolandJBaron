@@ -39,7 +39,7 @@ IOS / Window
   - Figma
   - Vercel
 - Databases: 
-  - MongooseDB
+  - MongoDB
 
 
 #### Cyber Security
