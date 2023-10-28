@@ -35,6 +35,7 @@ IOS / Window
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) • FIGMA
 <br>
 •HTML •CSS • JAVASCRIPT<br>
+<br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)<br>
