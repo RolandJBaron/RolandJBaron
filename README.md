@@ -40,7 +40,7 @@ IOS / Window
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) • JavaScript<br>
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev) • React.js<br>
 [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) • Next.js<br>
-[![My Skills](https://skillicons.dev/icons?i=mongoosedb)](https://skillicons.dev) • MongooseDB<br>
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) • MongooseDB<br>
 
 ![739CB9F3-F808-4BCD-87AA-E2A3B8189787_1_105_c](https://github.com/RolandJBaron/RolandJBaron/assets/142206832/1491636e-294d-47ef-ab97-0c888bc1fe7c)
 
