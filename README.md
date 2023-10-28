@@ -30,7 +30,7 @@ IOS / Window
 
 ### Currently Learning: Software Development
 #### Tools
-**Skills:**
+**Skills:**<br>
 **- Programming:** HTML, CSS, JavaScript<br>
 **- Frameworks/Libraries:** React.js, Next.js<br>
 **- Tools:** Github, Visual Studio Code, Figma, Vercel<br>
