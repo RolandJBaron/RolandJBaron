@@ -30,19 +30,11 @@ IOS / Window
 
 ### Currently Learning: Software Development
 #### Tools
-• Github<br>
-• Visual Studio Code<br>
-• Figma<br>
-• MongooseDB<br>
-• Vercel<br>
-
-• HTML<br>
-• CSS<br>
-• JAVASCRIPT<br>
-
-• React.js <br>
-• Next.js<br>
-• MongooseDB<br>
+Skills:
+- Programming: HTML, CSS, JavaScript
+- Frameworks/Libraries: React.js, Next.js
+- Tools: Github, Visual Studio Code, Figma, Vercel
+- Databases: MongoDB, MongooseDB
 
 ![739CB9F3-F808-4BCD-87AA-E2A3B8189787_1_105_c](https://github.com/RolandJBaron/RolandJBaron/assets/142206832/1491636e-294d-47ef-ab97-0c888bc1fe7c)
 
