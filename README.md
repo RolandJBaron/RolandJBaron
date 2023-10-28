@@ -29,16 +29,17 @@ IOS / Window
 • Penetration Testing<br>
 
 #### Currently Learning: Software Development:<br> 
-• Github • Visual Studio Code • Figma<br>
-<br>
-•HTML •CSS • JAVASCRIPT<br>
-[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)<br>
-• React.js • Next.js • MongooseDB<br>
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)<br>
+• Github<br>
+• Visual Studio Code<br>
+• Figma<br>
+
+• HTML<br>
+• CSS<br>
+• JAVASCRIPT<br>
+
+• React.js <br>
+• Next.js<br>
+• MongooseDB<br>
 
 ![739CB9F3-F808-4BCD-87AA-E2A3B8189787_1_105_c](https://github.com/RolandJBaron/RolandJBaron/assets/142206832/1491636e-294d-47ef-ab97-0c888bc1fe7c)
 
