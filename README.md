@@ -36,7 +36,7 @@ IOS / Window
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) • HTML<br>
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) • CSS<br>
-• JavaScript<br>
+[![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) • JavaScript<br>
 • React.js<br>
 • Next.js<br>
 • MongooseDB<br>
