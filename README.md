@@ -30,8 +30,8 @@ IOS / Window
 
 #### Currently Learning: Software Development:<br> 
 
-• Github<br>
-• Visual Studio<br>
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) • Github<br>
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) • Visual Studio<br>
 [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) • FIGMA<br>
 <br>
 
