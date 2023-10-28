@@ -32,6 +32,7 @@ IOS / Window
 
 • Github<br>
 • Visual Studio<br>
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev) • HTML<br>
