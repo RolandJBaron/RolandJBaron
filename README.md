@@ -30,9 +30,8 @@ IOS / Window
 
 #### Currently Learning: Software Development:<br> 
 • Github • Visual Studio Code • Figma<br>
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)<br>
+[![My Skills](https://skillicons.dev/icons?i=github, vscode, figma)](https://skillicons.dev)
+<br>
 •HTML •CSS • JAVASCRIPT<br>
 [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
