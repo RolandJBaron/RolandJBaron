@@ -2,7 +2,7 @@
 
 ### About Me
 
-I'm a Junior Web Developer in the making. Althougth Cyber Security is my passion, I'm always willing to learn new things. My moto is: "Don't give up until you make it" I always strive for excellence. I'm currently living near Frankfurt-Main Germany.
+I'm learning web Development, Althougth Cyber Security is my passion, I'm always willing to learn new things. My moto is: "Don't give up until you make it" I always strive for excellence. I'm currently living near Frankfurt-Main Germany.
 
 Contact me:<br>
 cyber-recce@protonmail.com 
