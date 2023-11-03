@@ -28,7 +28,7 @@ I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 IOS / Window
 
 
-### Currently Learning: Software Development
+### Software Development
 #### Skills:
 
 - Programming: 
