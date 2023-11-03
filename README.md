@@ -45,7 +45,7 @@ IOS / Window
   - MongoDB
 
 
-#### Cyber Security
+### Cyber Security Skills
 - Network Security<br>
 - Security Architecture<br>
 - Security Analysts<br>
