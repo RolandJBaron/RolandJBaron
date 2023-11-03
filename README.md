@@ -2,7 +2,10 @@
 
 ### About Me
 
-I'm learning web Development, Althougth Cyber Security is my passion, I'm always willing to learn new things. My moto is: "Don't give up until you make it" I always strive for excellence. I'm currently living near Frankfurt-Main Germany.
+I'm currently living near Frankfurt-Main Germany. 
+Currently learning Web Development to further my IT career, it has been a interesting road so far. 
+I always want to learn new skills. My moto is: "Don't give up until you make it" I strive for excellence.
+I'm new into Programming and enjoying it very much, my career interests are Cyber Security. 
 
 Contact me:<br>
 cyber-recce@protonmail.com 
