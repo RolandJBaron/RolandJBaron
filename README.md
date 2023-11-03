@@ -2,10 +2,7 @@
 
 ### About Me
 
-I'm currently living near Frankfurt-Main Germany. 
-At the moment I'm still learning Web Development to further my IT career, it has been a interesting road so far. 
-I always want to learn new skills. My moto is: "Don't give up until you make it" I strive for excellence.
-I'm new into Programming and enjoying it very much, my career interests are Cyber Security. 
+Currently, I reside close to Frankfurt-Main in Germany. My focus is on mastering Web Development to advance my IT career; the journey has been quite intriguing. I have a strong passion for acquiring new skills, and my guiding principle is: “Persist until you succeed.” Striving for excellence is my utmost priority, especially as I explore my newfound interest in Programming, with a keen eye on a career in Cyber Security.
 
 Contact me:<br>
 cyber-recce@protonmail.com 
