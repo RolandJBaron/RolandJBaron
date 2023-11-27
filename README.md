@@ -42,6 +42,8 @@ IOS / Window
   - NextAuth
 - Tools: 
   - Github
+  - Kali Linux
+  - VMware workstation
   - Visual Studio Code
   - Figma
   - Vercel
