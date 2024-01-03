@@ -9,9 +9,8 @@ My focus is to advance my IT career in Cyber Security;
 the journey has been quite intriguing. 
 I have a strong passion for acquiring new skills, 
 and my guiding principle is: “Persist until you succeed.” 
-Striving for excellence is my utmost priority, especially as I 
-explore my newfound interest in Programming, 
-with a keen eye on a career in Cyber Security.<br>
+Striving for excellence is my utmost priority. 
+
 I currently reside close to Frankfurt-Main in Germany.
 
 Contact me:<br>
