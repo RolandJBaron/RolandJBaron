@@ -33,7 +33,6 @@ IOS / Window
 ### Cyber Security
 #### Skills:
 
- - Digital Forensics
  - Cyber Forensics
  - Penetration Testing
  - Thread Intelligence
@@ -50,10 +49,12 @@ IOS / Window
   - CSS
   - JavaScript
   - Node.js
+    
 - Frameworks/Libraries: 
   - React.js
   - Next.js
   - NextAuth
+    
 - Tools: 
   - Github
   - Kali Linux
@@ -61,6 +62,7 @@ IOS / Window
   - Visual Studio Code
   - Figma
   - Vercel
+    
 - Databases: 
   - MongoDB
 
