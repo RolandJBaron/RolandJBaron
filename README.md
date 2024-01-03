@@ -27,8 +27,11 @@ Afrikaans: Speak, Read, Write<br>
 I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 
 ### Computer Literacy<br>
+#### Operating Systems
 
-IOS / Window
+ - macOS
+ - Windows
+ - Kali Linux
 
 ### Cyber Security
 #### Skills:
@@ -56,7 +59,6 @@ IOS / Window
   - NextAuth
     
 - Tools: 
-  - Kali Linux
   - Github
   - VMware workstation
   - Visual Studio Code
