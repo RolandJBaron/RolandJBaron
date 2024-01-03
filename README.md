@@ -2,6 +2,9 @@
 
 ### About Me
 
+I'm presently in the process of preparing for the
+ISC 2 Exam. 
+
 My focus is on mastering Web Development to advance my IT career; 
 the journey has been quite intriguing. 
 I have a strong passion for acquiring new skills, 
@@ -10,9 +13,6 @@ Striving for excellence is my utmost priority, especially as I
 explore my newfound interest in Programming, 
 with a keen eye on a career in Cyber Security.<br>
 I currently reside close to Frankfurt-Main in Germany.
-
-Presently I'm in the proccess of preparing for the
-ISC 2 Exam. 
 
 Contact me:<br>
 cyber-recce@protonmail.com 
