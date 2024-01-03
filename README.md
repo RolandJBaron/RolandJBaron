@@ -23,6 +23,7 @@ German: Speak, Read, Write<br>
 English: Speak, Read, Write<br>
 Afrikaans: Speak, Read, Write<br>
 
+#### Hobbies
 I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 
 ### Computer Literacy<br>
