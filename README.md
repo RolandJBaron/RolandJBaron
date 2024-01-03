@@ -11,6 +11,9 @@ explore my newfound interest in Programming,
 with a keen eye on a career in Cyber Security.<br>
 I currently reside close to Frankfurt-Main in Germany.
 
+Presently I'm in the proccess of preparing for the
+ISC 2 Exam. 
+
 Contact me:<br>
 cyber-recce@protonmail.com 
 
