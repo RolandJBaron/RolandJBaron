@@ -5,7 +5,7 @@
 I'm presently in the process of preparing for the
 ISC 2 Exam. 
 
-My focus is on mastering Web Development to advance my IT career; 
+My focus is to advance my IT career in Cyber Security; 
 the journey has been quite intriguing. 
 I have a strong passion for acquiring new skills, 
 and my guiding principle is: “Persist until you succeed.” 
@@ -29,6 +29,7 @@ I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 ### Computer Literacy<br>
 
 IOS / Window
+
 
 
 ### Software Development
