@@ -2,9 +2,6 @@
 
 ### About Me
 
-I'm presently in the process of preparing for the
-ISC 2 Exam. 
-
 My focus is to advance my IT career in Cyber Security; 
 the journey has been quite intriguing. 
 I have a strong passion for acquiring new skills, 
