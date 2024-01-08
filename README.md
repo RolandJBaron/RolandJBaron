@@ -33,12 +33,13 @@ I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 ### Cyber Security
 #### Skills:
 
+ - Cyber Security
  - Cyber Forensics
  - Penetration Testing
+ - Network Security
  - Thread Intelligence
  - Security Analytics
  - Security Architecture
- - Network Security
 
 
 ### Software Development
