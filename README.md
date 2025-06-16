@@ -9,7 +9,7 @@ I’m steadily moving toward roles in SOC analysis, penetration testing, or clou
 
 "Persist until you succeed." That’s the principle I live and work by.
 
-Location & Contact
+#### Location & Contact<br>
 Current Location: Frankfurt/Main, Germany<br>
 Citizenship: German | South African<br>
 Email: cyber-recce@protonmail.com
