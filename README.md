@@ -41,7 +41,7 @@ Excel for Business Analysis<br>
  - macOS
  - Kali Linux
 
-###Systems & Infrastructure
+### Systems & Infrastructure
 - Windows Server 2022 (AD, GPO, Folder Redirection, User/Group Management)
 - VirtualBox
 - Remote Desktop
