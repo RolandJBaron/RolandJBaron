@@ -36,9 +36,17 @@ Excel for Business Analysis<br>
 ### Computer Literacy<br>
 #### Operating Systems
 
+ - Windows 10/11
+ - Windows Server 2022
  - macOS
- - Windows
  - Kali Linux
+
+###Systems & Infrastructure
+- Windows Server 2022 (AD, GPO, Folder Redirection, User/Group Management)
+- VirtualBox
+- Remote Desktop
+- File Sharing & NTFS Permissions
+- Active Directory Configuration
 
 ### Cyber Security
 #### Skills:
