@@ -59,6 +59,8 @@ Excel for Business Analysis<br>
   - HTML
   - CSS
   - JavaScript
+  - Python
+  - SQL
   - Node.js
     
 - Frameworks/Libraries: 
