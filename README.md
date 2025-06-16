@@ -1,91 +1,65 @@
-## I’m Roland J. Baron
+# 👨‍💻 Roland J. Baron
 
-### About Me
+## Cybersecurity-Focused IT Professional | Python • Cloud • Systems Admin | Based in Frankfurt, Germany
 
-I'm on a mission to build a career in Cybersecurity—a journey fueled by curiosity, grit, 
-and relentless self-improvement. With a strong academic foundation through BYU Pathways and
-Ensign College and practical skills in system administration, scripting, and networking, 
-I’m steadily moving toward roles in SOC analysis, penetration testing, or cloud security.
+---
 
-"Persist until you succeed." That’s the principle I live and work by.
+### 💡 About Me  
+I’m building a career in **Cybersecurity**, fueled by curiosity, discipline, and hands-on learning. With a strong academic foundation from **Ensign College** and real-world skills in **system administration, scripting, and database design**, I’m working toward roles in **SOC analysis, cloud security**, or **penetration testing**.
 
-#### Location & Contact<br>
-Current Location: Frankfurt/Main, Germany<br>
-Citizenship: German | South African<br>
-Email: cyber-recce@protonmail.com
+> *"Persist until you succeed."*
 
-#### Languages
-German: Speak, Read, Write<br>
-English: Speak, Read, Write<br>
-Afrikaans: Speak, Read, Write<br>
+---
 
-#### Hobbies
-I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
+### 📍 Location & Contact  
+- **Frankfurt/Main, Germany**  
+- **Citizenship:** German 🇩🇪 | South African 🇿🇦  
+- **Email:** cyber-recce@protonmail.com  
 
-####  Current Education
-Ensign College (via BYU–Pathway)
-Certificate in Information Technology – Completed 2025
+---
 
-Courses:
-- Cloud Server Admin<br>
-- SQL Databases<br>
-- Python<br>
-- PC Hardware<br>
-- Excel for Business Analysis<br>
+### 🌐 Languages  
+- English • German • Afrikaans (Fluent in all: Speak, Read, Write)
 
-### Computer Literacy<br>
-#### Operating Systems
+---
 
- - Windows 10/11
- - Windows Server 2022
- - macOS
- - Kali Linux
+### 🎓 Education  
+**Ensign College (via BYU–Pathway)**  
+*Certificate in Information Technology (2025)*  
+- Cloud Server Administration  
+- SQL Databases  
+- Python Scripting  
+- PC Hardware & Troubleshooting  
+- Excel for Business Analysis  
 
-### Systems & Infrastructure
-- Windows Server 2022 (AD, GPO, Folder Redirection, User/Group Management)
-- VirtualBox
-- Remote Desktop
-- File Sharing & NTFS Permissions
-- Active Directory Configuration
+---
 
-### Cyber Security
-#### Skills:
+## 🛠️ Technical Skills
 
- - Cyber Security
- - Cyber Forensics
- - Penetration Testing
- - Network Security
- - Thread Intelligence
- - Security Analytics
- - Security Architecture
+### ⚙️ Systems & Infrastructure  
+- Windows 10/11, Windows Server 2022  
+- Active Directory, Group Policy, NTFS Permissions  
+- VirtualBox, Remote Desktop  
+- Kali Linux, macOS  
 
+### 🔐 Cybersecurity  
+- Network Security • Cyber Forensics • Threat Intelligence  
+- Penetration Testing (beginner) • Security Analytics  
+- SOC Workflow Knowledge  
 
-### Software Development
-#### Skills:
+### 🐍 Scripting & Development  
+- Python • SQL • Bash (basic)  
+- HTML • CSS • JavaScript • Node.js  
+- React.js • Next.js • NextAuth  
 
-- Programming: 
-  - HTML
-  - CSS
-  - JavaScript
-  - Python
-  - SQL
-  - Node.js
-    
-- Frameworks/Libraries: 
-  - React.js
-  - Next.js
-  - NextAuth
-    
-- Tools: 
-  - Github
-  - VMware workstation
-  - Visual Studio Code
-  - Figma
-  - Vercel
-    
-- Databases: 
-  - MongoDB
+### 🧰 Tools & Platforms  
+- GitHub • VMware Workstation  
+- Visual Studio Code • Figma • Vercel  
 
+---
+
+### 🏍️ Hobbies  
+Motorcycles • Cars • Hiking • Nature
 
 ![739CB9F3-F808-4BCD-87AA-E2A3B8189787_1_105_c](https://github.com/RolandJBaron/RolandJBaron/assets/142206832/1491636e-294d-47ef-ab97-0c888bc1fe7c)
 
