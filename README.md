@@ -2,18 +2,17 @@
 
 ### About Me
 
-My focus is to advance my IT career in Cyber Security; 
-the journey has been quite intriguing. 
-I have a strong passion for acquiring new skills, 
-and my guiding principle is: “Persist until you succeed.” 
-Striving for excellence is my utmost priority. 
+I'm on a mission to build a career in Cybersecurity—a journey fueled by curiosity, grit, 
+and relentless self-improvement. With a strong academic foundation through BYU Pathways and
+Ensign College and practical skills in system administration, scripting, and networking, 
+I’m steadily moving toward roles in SOC analysis, penetration testing, or cloud security.
 
-I currently reside close to Frankfurt-Main in Germany.
+"Persist until you succeed." That’s the principle I live and work by.
 
-Contact me:<br>
-cyber-recce@protonmail.com 
-
-Citizenship: German - South African
+Location & Contact
+Current Location: Frankfurt/Main, Germany
+Citizenship: German 🇩🇪 | South African 🇿🇦
+Email: cyber-recce@protonmail.com
 
 #### Languages
 German: Speak, Read, Write<br>
@@ -22,6 +21,17 @@ Afrikaans: Speak, Read, Write<br>
 
 #### Hobbies
 I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
+
+####  Current Education
+Ensign College (via BYU–Pathway)
+Certificate in Information Technology – Completed 2025
+
+Courses: 
+Cloud Server Admin 
+SQL Databases 
+Python
+PC Hardware
+Excel for Business Analysis
 
 ### Computer Literacy<br>
 #### Operating Systems
