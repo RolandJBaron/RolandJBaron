@@ -26,7 +26,7 @@ I enjoy: Riding my Motorcycle, Working on cars, Hiking, and being in Nature
 Ensign College (via BYU–Pathway)
 Certificate in Information Technology – Completed 2025
 
-Courses: 
+Courses: <br>
 Cloud Server Admin<br>
 SQL Databases<br>
 Python<br>
