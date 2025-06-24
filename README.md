@@ -1,6 +1,6 @@
 # 👨‍💻 Roland J. Baron
 
-## Cybersecurity-Focused IT Professional | Python • Cloud • Systems Admin | Based in Frankfurt, Germany
+## Cybersecurity-Focused IT Professional | System Admin • Cloud Admin • SQL • Python | Based in Frankfurt, Germany
 
 ---
 
