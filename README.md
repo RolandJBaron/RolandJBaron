@@ -37,15 +37,14 @@ I’m building a career in **Cybersecurity**, fueled by curiosity, discipline, a
 ## 🛠️ Technical Skills
 
 ### ⚙️ Systems & Infrastructure  
-- Windows 10/11, Windows Server 2022  
-- Active Directory, Group Policy, NTFS Permissions  
-- VirtualBox, Remote Desktop  
-- Kali Linux, macOS  
+- Windows 10/11 • Windows Server 2022  
+- Active Directory • Group Policy • NTFS Permissions  
+- VirtualBox • Remote Desktop  
+- Kali Linux • macOS  
 
 ### 🔐 Cybersecurity  
-- Network Security • Cyber Forensics • Threat Intelligence  
-- Penetration Testing (beginner) • Security Analytics  
-- SOC Workflow Knowledge  
+- Threat Hunting • Threat Intelligence • Network Security
+-  Security Analytics  • SOC Analyst • Cyber Forensics
 
 ### 🐍 Scripting & Development  
 - Python • SQL • Bash (basic)  
