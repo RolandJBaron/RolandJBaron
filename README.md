@@ -5,7 +5,7 @@
 ---
 
 ### 💡 About Me  
-I’m building a career in **Cybersecurity**, fueled by curiosity, discipline, and hands-on learning. With a strong academic foundation from **Ensign College** and real-world skills in **System and Network Administration**, I’m working toward roles as a **SOC Analyst** with a focus on **Threat Intelligence**, **Threat Hunting**, and **Network & System Administration**.
+I’m building a career in **Cybersecurity**, fueled by curiosity, discipline, and hands-on learning. With a strong academic foundation from **Brigham Young University, Ensign College**  I’m working toward roles as a **SOC Analyst** with a focus on **Threat Intelligence**, **Threat Hunting**, and **Network & System Administration**.
 
 > *"Persist until you succeed."*
 
