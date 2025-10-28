@@ -40,7 +40,8 @@ I’m building a career in **Cybersecurity**, fueled by curiosity, discipline, a
 - Windows 10/11 • Windows Server 2022  
 - Active Directory • Group Policy • NTFS Permissions  
 - VirtualBox • Remote Desktop  
-- Kali Linux • macOS  
+- Kali Linux • macOS
+- Cisco Networking (Packet Tracer • Routing & Switching basics)
 
 ### 🔐 Cybersecurity  
 - Threat Hunting • Threat Intelligence • Network Security
